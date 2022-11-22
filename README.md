@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## Oi eu sou o Lavique Dias, Estudante de informártica no IFPB, e apaixonado por JavaScript !
 <div align="center">
   <a href="https://github.com/lilianhteixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaviqDias&show_icons=true&&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviqDias&layout=compact&langs_count=7&/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaviqDias&show_icons=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviqDias&layout=compact&langs_count=7&bg_color=0d1117/>
 </div>
  
 <div style="display: inline_block"><br>
