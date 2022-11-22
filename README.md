@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## Oi eu sou o Lavique Dias, Estudante de informártica no IFPB, e apaixonado por JavaScript !
 <div align="center">
   <a href="https://github.com/lilianhteixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaviqDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviqDias&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaviqDias&show_icons=true&&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviqDias&layout=compact&langs_count=7&/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -74,16 +74,16 @@ Here are some ideas to get you started:
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lilianhteixeira&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lílian Teixeira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilianhteixeira&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LaviqDias&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Lílian Teixeira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviqDias&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" /> 
 </div> 
  
  <!-- gráfico das contribuições --> 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LaviqDias&bg_color=363636&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LaviqDias&bg_color=363636&color=00BFFF&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <!-- badges, com trofeu --> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaviqDias&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LaviqDias&theme=&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
 
  <!-- redes sociais e profissional -->
